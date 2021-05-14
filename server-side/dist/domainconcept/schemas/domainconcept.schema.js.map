@@ -1,0 +1,1 @@
+{"version":3,"file":"domainconcept.schema.js","sourceRoot":"","sources":["../../../src/domainconcept/schemas/domainconcept.schema.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAExB,QAAA,mBAAmB,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IACnD,IAAI,EAAE,MAAM;IACZ,UAAU,EAAE,EAAE,IAAI,EAAE,IAAI,EAAE,OAAO,EAAE,IAAI,CAAC,GAAG,EAAE;CAChD,CAAC,CAAA"}

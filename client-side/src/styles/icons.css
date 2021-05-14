@@ -1,0 +1,135 @@
+.fa-backward{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fa-forward{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fa-arrow-right{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.fa-arrow-left{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.fa-arrow-left:hover{
+    color: #42b983;
+}
+.fa-backward:hover{
+    color: #42b983;
+}
+.fa-forward:hover{
+    color: #42b983;
+}
+.fa-arrow-right:hover{
+    color: #42b983;
+}
+.fa-window-minimize{
+    color: #42b983;
+}
+.fa-circle{
+    color:#42b983;
+}
+.fa-square{
+    color: #42b983;
+}
+.fa-window-minimize:hover{
+    color: #f1f1f1;
+    cursor:pointer
+}
+.fa-circle:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-square:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-undo-alt{
+    color: #42b983;
+}
+.fa-undo-alt:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-redo-alt{
+    color: #42b983;
+}
+.fa-redo-alt:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+
+.fa-trash-alt{
+    color: #42b983;
+}
+.fa-trash-alt:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-arrows-alt{
+    color: #42b983;
+}
+.fa-arrows-alt:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-expand-arrows-alt{
+    color: #42b983;
+}
+.fa-expand-arrows-alt:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-file-upload{
+    color: #42b983;
+}
+.fa-file-upload:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-file-download{
+    color: #42b983;
+}
+.fa-file-download:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-plus-square{
+    color: #42b983;
+}
+.fa-plus-square:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-angle-left{
+    color: #42b983;
+}
+.fa-angle-left:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-angle-right{
+    color: #42b983;
+}
+.fa-angle-right:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-sticky-note{
+    color: #42b983;
+}
+.fa-sticky-note:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}
+.fa-paragraph{
+    color: #42b983;
+}
+.fa-paragraph:hover{
+    color: #f1f1f1; 
+    cursor:pointer
+}

@@ -1,0 +1,39 @@
+-> make server.js file
+
+-> paste:
+const express = require('express') 
+const serveStatic = require('serve-static') 
+const path = require('path') 
+
+const app = express() 
+
+app.use('/', serveStatic(path.join( __dirname, '/dist'))) 
+
+const port = process.env.PORT || 8080 
+app.listen(port) 
+
+console.log( 'Listening on port: ' + port)
+
+-> in package.json:
+add: "start": "node server.js"
+in the scripts
+
+-> 
+npm install express serve-static --save
+npm run build
+
+-> remove
+/dist
+from .gitignore
+
+-> 
+
+heroku login
+
+heroku git:remote -a <naam heroku app>
+(of heroku create)
+
+git add .
+git commit -am "make it better"
+git push heroku master
+of git subtree push --prefix /? heroku master
